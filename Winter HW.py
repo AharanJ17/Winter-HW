@@ -203,6 +203,7 @@ def password_checker():
 
 
     print(pscr)
+password_checker()
 ##    
 #7. **Palindrome Checker**: Write a function that checks if a given string is a palindrome (reads the same forwards and backwards).
 
